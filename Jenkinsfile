@@ -26,7 +26,6 @@ pipeline {
                   steps {
                         echo "Deploying in QA Area"
                   }
-            }
-            
+            } 
       }
 }
